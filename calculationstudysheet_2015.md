@@ -2,11 +2,13 @@
 
 
 ## Calculating moles
-Definition/Usage:
-Equation:
+Definition/Usage:A unit that can help find out the amount of molecules in a substance. 
+Equation: Avagodro's Number: 6.02x10^23
 
 ### Examples
-
+How many moles do I have in 48 grams of Carbon?
+How many moles do I have if I have 18 grams of Water?
+How many moles do I have if in 29.22 grams of NaCl?
 ## Calculating Formula Weight/ Molecular Mass
 Definition/Usage:
 Equation:
